@@ -1,0 +1,17 @@
+SOFTWARE VERSIONS UTILIZED:
+
+Quantum ESPRESSO Package [1] versions: (https://www.quantum-espresso.org/)
+- v.6.6
+- v.6.7
+- v.7.1
+
+
+[1] P. Giannozzi, S. Baroni, N. Bonini, M. Calandra, R. Car, C. Cavazzoni, D. Ceresoli,
+G. L. Chiarotti, M. Cococcioni, I. Dabo, A. D. Corso, S. de Gironcoli, S. Fab-
+ris, G. Fratesi, R. Gebauer, U. Gerstmann, C. Gougoussis, A. Kokalj, M. Lazzeri,
+L. Martin-Samos, N. Marzari, F. Mauri, R. Mazzarello, S. Paolini, A. Pasquarello,
+L. Paulatto, C. Sbraccia, S. Scandolo, G. Sclauzero, A. P. Seitsonen, A. Smogunov,
+P. Umari, R. M. Wentzcovitch, Journal of Physics: Condensed Matter 2009, 21,
+395502.
+
+
