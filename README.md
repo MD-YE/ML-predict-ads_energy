@@ -7,6 +7,9 @@
 > **Application of machine learning to discover new intermetallic catalysts for the hydrogen evolution and the oxygen reduction reactions**
 > GitHub 代码来源：
 > [https://github.com/vvassilevg/HighHydrogenML-Screening](https://github.com/vvassilevg/HighHydrogenML-Screening)
+> 
+额外需要补充下载的文章QE计算原始数据[Bimetallic.zip]和[Pure_metals.zip]位于：
+> https://zenodo.org/records/11486422
 
 Catal-hub网址为：
 > [https://www.catalysis-hub.org/appsIndex](https://www.catalysis-hub.org/appsIndex)
