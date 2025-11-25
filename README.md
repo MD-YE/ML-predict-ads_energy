@@ -13,5 +13,5 @@ Catal hub网址为：
 本 Notebook 将通过示例展示如何使用Catal hub下载吸附能数据，构建材料特征描述符，训练 ML 模型以预测吸附能。具体操作在Catalub_ML.ipynb的jupyter notebook手册中。
 
 ```markdown
-![Introduction](https://github.com/MD-YE/ML-predict-ads_energy/edit/main/introduction.png)
+![Introduction](https://raw.githubusercontent.com/MD-YE/ML-predict-ads_energy/main/introduction.png)
 ```
